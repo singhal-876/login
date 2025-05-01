@@ -34,27 +34,15 @@ cd pocket-finance-guide
 ```
 npm install
 ```
-- **Or using Bun:**
-```
-bun install
-```
 
 3. **Run the Development Server Using npm:**
 ```
 npm run dev
 ```
-- **Or using Bun:**
-```
-bun run dev
-```
 
 4. **Build for Production**
 ```
 npm run build
-```
-- **Or:**
-```
-bun run build
 ```
 
 5. **View Application Open http://localhost:5173 (or the port shown in your terminal).**
