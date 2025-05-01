@@ -25,35 +25,35 @@
 Follow these steps to get the project running locally:
 
 1. **Clone the Repository**
-```bash
+```
+bash
 git clone https://github.com/your-username/pocket-finance-guide.git
 cd pocket-finance-guide
 ```
 
-2. Install Dependencies Using npm:
+2. **Install Dependencies Using npm:**
 ```
 bash
 Copy
 Edit
 npm install
 ```
-Or using Bun:
+- **Or using Bun:**
 ```
 bash
 Copy
 Edit
 bun install
-
 ```
 
-3. Run the Development Server Using npm:
+3. **Run the Development Server Using npm:**
 ```
 bash
 Copy
 Edit
 npm run dev
 ```
-Or using Bun:
+- **Or using Bun:**
 ```
 bash
 Copy
@@ -61,14 +61,14 @@ Edit
 bun run dev
 ```
 
-4. Build for Production
+4. **Build for Production**
 ```
 bash
 Copy
 Edit
 npm run build
 ```
-Or:
+- **Or:**
 ```
 bash
 Copy
@@ -76,7 +76,7 @@ Edit
 bun run build
 ```
 
-5. View Application Open http://localhost:5173 (or the port shown in your terminal).
+5. **View Application Open http://localhost:5173 (or the port shown in your terminal).**
 
 ---
 
@@ -152,23 +152,23 @@ npm run build
 
 ## 👥 Team Members & Roles
 1. **Diwakar Chauhan** – Frontend Development & UI/UX
-* **Responsibilities:**
-- Designed and developed the entire frontend
-- Built responsive layouts using Tailwind CSS
-- Ensured accessibility and smooth user experience
+    1. **Responsibilities:**
+        - Designed and developed the entire frontend
+        - Built responsive layouts using Tailwind CSS
+        - Ensured accessibility and smooth user experience
 
-* **Key Deliverables:**
-- UI components and page designs
-- Integration of routing and frontend logic
-- Pixel-perfect responsive layout
+    2. **Key Deliverables:**
+        - UI components and page designs
+        - Integration of routing and frontend logic
+        - Pixel-perfect responsive layout
 
 2. **Soumya Aggarwal** – Configuration, Build Tools & Quality Assurance
-* **Responsibilities:**
-- Set up project build environment using Vite
-- Configured ESLint and PostCSS for code quality and CSS enhancements
-- Managed project dependencies and scripts
+    1. **Responsibilities:**
+        - Set up project build environment using Vite
+        - Configured ESLint and PostCSS for code quality and CSS enhancements
+        - Managed project dependencies and scripts
 
-* **Key Deliverables:**
-- Functional and optimized build setup
-- Linting and formatting rules
-- Complete documentation and setup instructions
+    2. **Key Deliverables:**
+        - Functional and optimized build setup
+        - Linting and formatting rules
+        - Complete documentation and setup instructions
