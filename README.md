@@ -26,53 +26,34 @@ Follow these steps to get the project running locally:
 
 1. **Clone the Repository**
 ```
-bash
 git clone https://github.com/your-username/pocket-finance-guide.git
 cd pocket-finance-guide
 ```
 
 2. **Install Dependencies Using npm:**
 ```
-bash
-Copy
-Edit
 npm install
 ```
 - **Or using Bun:**
 ```
-bash
-Copy
-Edit
 bun install
 ```
 
 3. **Run the Development Server Using npm:**
 ```
-bash
-Copy
-Edit
 npm run dev
 ```
 - **Or using Bun:**
 ```
-bash
-Copy
-Edit
 bun run dev
 ```
 
 4. **Build for Production**
 ```
-bash
-Copy
-Edit
 npm run build
 ```
 - **Or:**
 ```
-bash
-Copy
-Edit
 bun run build
 ```
 
@@ -132,9 +113,6 @@ bun run build
 - You can deploy the production build to platforms like Vercel, Netlify, or GitHub Pages.
 - Build the project
 ```
-bash
-Copy
-Edit
 npm run build
 ```
 - Deploy the /dist folder on your preferred hosting platform.
