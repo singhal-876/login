@@ -151,7 +151,7 @@ npm run build
 ---
 
 ## 👥 Team Members & Roles
-1. <ins>**Diwakar Chauhan**</ins> – Frontend Development & UI/UX
+1. <ins>**Diwakar Chauhan**</ins> – *Frontend Development & UI/UX*
     1. **Responsibilities:**
         - Designed and developed the entire frontend
         - Built responsive layouts using Tailwind CSS
@@ -162,7 +162,7 @@ npm run build
         - Integration of routing and frontend logic
         - Pixel-perfect responsive layout
 
-2. **Soumya Aggarwal** – Configuration, Build Tools & Quality Assurance
+2. <ins>**Soumya Aggarwal**</ins> – *Configuration, Build Tools & Quality Assurance*
     1. **Responsibilities:**
         - Set up project build environment using Vite
         - Configured ESLint and PostCSS for code quality and CSS enhancements
