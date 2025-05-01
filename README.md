@@ -151,7 +151,7 @@ npm run build
 ---
 
 ## 👥 Team Members & Roles
-1. **Diwakar Chauhan** – Frontend Development & UI/UX
+1. <ins>**Diwakar Chauhan**</ins> – Frontend Development & UI/UX
     1. **Responsibilities:**
         - Designed and developed the entire frontend
         - Built responsive layouts using Tailwind CSS
